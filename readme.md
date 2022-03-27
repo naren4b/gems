@@ -11,5 +11,6 @@ docker build -t narenp/gems:latest .
 ```
 
 To run this image 
+```
 docker run  -p 2000:8080 --name gems -e ENV_BG_COLOR="GREEN"  narenp/gems:latest
-
+```
