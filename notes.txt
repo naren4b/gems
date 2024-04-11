@@ -1,0 +1,44 @@
+OS: Linux 
+    Ubuntu 
+    Rocky
+    Redhat 
+    Amazon-Linux 
+    VM - Virtualbox 
+
+Language
+ - bash 
+ - python 
+
+SCM 
+ - git 
+  - gitlab
+  - github 
+  - artifactory 
+
+CICD
+  - Jenkins 
+  - Sonar 
+  - Docker 
+
+Ansible 
+Terraform 
+
+
+Kubernetes
+OpenStack 
+
+
+AWS
+
+Monitoring 
+- Prometheus
+- Grafana 
+- Elastic 
+
+
+
+REST 
+YAML
+JSON
+
+
